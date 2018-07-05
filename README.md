@@ -10,6 +10,8 @@ CSV 파일을 읽어 TCP로 전송해주는 JAVA 서버
 
 - Thread사용으로 다중 접속 가능
 
+- 1초에 CSV에서 읽어온 데이터 한줄씩 전송
+
   
 
 ## Getting Started
